@@ -18,7 +18,10 @@
 This module is designed to help you understand the memory allocation, reference, pointers to members and the usage of the switch in CPP.
 
 #### Objectives
-- Unix logic
+- Memmory Allocation
+- Pointers For Members
+- Refferances
+- Switch Statement
 
 #### Skills
 - Rigor
