@@ -16,7 +16,9 @@
 This module is designed to help you understand Subtype polymorphism, abstract classes and interfaces in CPP.
 
 #### Objectives
-- Unix logic
+- Subtype Polymorphism
+- Abstract Classes
+- Interfaces
 
 #### Skills
 - Rigor
