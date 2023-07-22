@@ -1,10 +1,11 @@
-<h1 align="center"> 🧰 CPP05 </h1>
+<h1 align="center"> 🧰 CPP07 </h1>
 
-<h2 align="center">This repository contains the exercises of Module 05 from C++ modules.</h2>
+<h2 align="center">This repository contains the exercises of Module 07 from C++ modules.</h2>
 <br>
 
 <p align="center">
-  <a href="#about">About</a> &#xa0; | &#xa0; 
+  <a href="#about">About</a> &#xa0; | &#xa0;
+  <a href="#samples">Samples</a> &#xa0; | &#xa0;
   <a href="#links">Links</a> &#xa0; | &#xa0;
   <a href="https://github.com/duhanayan" target="_blank">Author</a>
 </p>
@@ -13,17 +14,42 @@
 
 ## About ##
 
-This module is designed to help you understand Try/Catch and Exceptions in CPP.
+This module is designed to help you understand Templates and the way they work in CPP.
 
-#### Objectives
-- Unix logic
+## Skills
+- Understand the concept of C++ templates.
+- Learn how to create function templates and class templates.
+- Implement generic algorithms using templates.
+## Samples ##
+### Simple Class Template Sample
+```cpp
+// A simple template class
+template <typename T>
+class MyTemplate {
+private:
+    T value;
 
-#### Skills
-- Rigor
-- Object-oriented programming
-- Imperative programming
+public:
+    MyTemplate(T val) : value(val) {}
 
+    T getValue() const {
+        return value;
+    }
+
+    void setValue(T val) {
+        value = val;
+    }
+};
+```
+### Simple Function Template Sample
+```cpp
+// A simple template function
+template <typename T>
+T add(T a, T b) {
+    return a + b;
+}
+```
 ## Links ##
-- [CPP Reference](https://en.cppreference.com/)
-- [CPP Tutorial](https://www.w3schools.com/cpp/default.asp)
-- [Related Article](https://cplusplus.com/reference/exception/exception/what/#:~:text=std%3A%3Aexception%3A%3Awhat&text=Returns%20a%20null%20terminated%20character,that%20specific%20values%20are%20returned.)
+- [CPP Templates](https://www.youtube.com/watch?v=I-hZkUa9mIs)
+- [CPP Class Templates](https://www.youtube.com/watch?v=mQqzP9EWu58)
+- [CPP Article](https://www.geeksforgeeks.org/templates-cpp/)
