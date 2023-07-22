@@ -1,6 +1,6 @@
-<h1 align="center"> 🧰 CPP08 </h1>
+<h1 align="center"> 🧰 CPP09 </h1>
 
-<h2 align="center">This repository contains the exercises of Module 08 from C++ modules.</h2>
+<h2 align="center">This repository contains the exercises of Module 09 from C++ modules.</h2>
 <br>
 
 <p align="center">
@@ -12,11 +12,4 @@
 
 ## About ##
 
-This module is designed to help you understand how to implement various features related to containers, algorithms, and templates in C++.
-
-#### Skills
-- C++ Standard Library (STL) and Data Structures
-- C++ Templates
-- Error Handling (Exception Handling)
-- Test-Driven Development (TDD)
-- Design Pattern: Iterator (Iterator Design Pattern)
+This module is designed to help you understand the differences between containers and the ways they usage patterns in C++.
