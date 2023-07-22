@@ -16,6 +16,8 @@
 
 This module is designed to help you understand Templates and the way they work in CPP.
 
+## Objectives
+- C++ Templates
 ## Skills
 - Understand the concept of C++ templates.
 - Learn how to create function templates and class templates.
