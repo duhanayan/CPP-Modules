@@ -21,7 +21,7 @@ A Cast operator is an unary operator which forces one data type to be converted 
 </p>
 
 #### Objectives
-- Unix logic
+- C++ Casts
 
 #### Skills
 - Rigor
