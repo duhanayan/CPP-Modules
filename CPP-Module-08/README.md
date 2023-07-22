@@ -1,11 +1,10 @@
-<h1 align="center"> 🧰 CPP05 </h1>
+<h1 align="center"> 🧰 CPP08 </h1>
 
-<h2 align="center">This repository contains the exercises of Module 05 from C++ modules.</h2>
+<h2 align="center">This repository contains the exercises of Module 08 from C++ modules.</h2>
 <br>
 
 <p align="center">
   <a href="#about">About</a> &#xa0; | &#xa0; 
-  <a href="#links">Links</a> &#xa0; | &#xa0;
   <a href="https://github.com/duhanayan" target="_blank">Author</a>
 </p>
 
