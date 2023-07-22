@@ -14,6 +14,11 @@
 
 This module is designed to help you understand how to implement various features related to containers, algorithms, and templates in C++.
 
+## Objectives
+- Templated Containers
+- Iterators
+- Algorithms
+
 #### Skills
 - C++ Standard Library (STL) and Data Structures
 - C++ Templates
