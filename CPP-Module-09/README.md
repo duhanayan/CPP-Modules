@@ -11,5 +11,7 @@
 <hr>
 
 ## About ##
-
 This module is designed to help you understand the differences between containers and the ways they usage patterns in C++.
+
+## Objectives
+STL
