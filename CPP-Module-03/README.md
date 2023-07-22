@@ -18,7 +18,7 @@
 This module is designed to help you understand Inheritance in CPP.
 
 #### Objectives
-- Unix logic
+- Inheritance
 
 #### Skills
 - Rigor
